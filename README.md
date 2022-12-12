@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PckProgramador
+- 👀 I’m interested in Cibersecurity and AI development.
+- 🌱 I’m currently learning java
+- 📫 How to reach me 958patrick@gmail.com
