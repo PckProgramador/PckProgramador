@@ -10,6 +10,6 @@
 
 
 
--Aquí os dejo mis redes sociales
+- Aquí os dejo mis redes sociales 💻
 
 [linkedin]: https://www.linkedin.com/in/patrick-moreno--ciberseguridad-economia-hacking/
