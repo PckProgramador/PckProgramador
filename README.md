@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PckProgramador
-- 👀 I’m interested in Cibersecurity and web development.
+- 👀 I’m interested in cibersecurity and web development.
 - 🌱 I’m currently learning (insert what new languaje Google has developed)
 - 📫 How to reach me 958patrick@gmail.com
 
