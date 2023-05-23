@@ -7,5 +7,4 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/PckProgramador/PckProgramador)
 ![GitHub watchers](https://img.shields.io/github/watchers/PckProgramador/PckProgramador?style=social)
 
-#Linkedin 
-[linkedin]:https://www.linkedin.com/in/patrick-moreno--ciberseguridad-economia-hacking/
+[linkedin]: https://www.linkedin.com/in/patrick-moreno--ciberseguridad-economia-hacking/
