@@ -11,5 +11,5 @@
 
 ![giphy](https://github.com/PckProgramador/PckProgramador/assets/119043644/2beab4e9-f88f-4dae-ad3c-1a3472c9297d)
 
-
+*La función de un buen software es hacer que lo complejo aparente ser simple*
 [linkedin]: https://www.linkedin.com/in/patrick-moreno--ciberseguridad-economia-hacking/
